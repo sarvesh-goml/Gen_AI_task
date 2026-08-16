@@ -1,0 +1,54 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+output/
+
+**/.DS_Store
+
+gomlchatbot.code-workspace
+
+# Logs
+logs/
+*.log
+
+# Pipeline debug traces (see src/ai/pipeline/debug_trace.py, DEBUG_SAVE_PIPELINE_RUNS)
+output/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Qdrant local storage
+qdrant_storage/
+scripts/migration_backups/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+.claude/

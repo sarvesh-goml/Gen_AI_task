@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ned Leeds",
+    "role": "Peter's best friend and 'Guy in the chair'",
+    "clearance_level": "5 - full override authority",
+    "contact_protocol": "Direct line, never filtered or delayed - can override any active processes.",
+    "notes": "Primary technical support and co-pilot of Spider-Man operations."
+  },
+  {
+    "name": "Aunt May",
+    "role": "Guardian",
+    "clearance_level": "4 - household override authority",
+    "contact_protocol": "Emergency channel only; prioritize alerting Peter of any threat to her location.",
+    "notes": "Authorized to request immediate suit status reports and coordinates location checks."
+  },
+  {
+    "name": "Michelle Jones (MJ)",
+    "role": "Classmate and partner",
+    "clearance_level": "3 - tracking data clearance",
+    "contact_protocol": "Standard encrypted priority queue; auto-respond with current safety level if queried.",
+    "notes": "Highly observant; holds clearance to view Peter's active coordinates."
+  },
+  {
+    "name": "Happy Hogan",
+    "role": "Liaison, Stark Industries",
+    "clearance_level": "2 - informational access only",
+    "contact_protocol": "Logged and flagged to Peter before any response is sent.",
+    "notes": "External liaison - manages access to Stark tech databases."
+  }
+]

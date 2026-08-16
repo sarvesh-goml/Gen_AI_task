@@ -1,0 +1,13 @@
+# Spider-Man Suit & Gadget Diagnostics Telemetry
+# Chunking note: STRUCTURED, per-record chunks. Each line is a discrete telemetry fact -
+# never split a reading from its unit, and never merge two suits' data into one chunk.
+
+Stark Suit | Web shooter pressure: 84% nominal | Left web shooter: intermittent fault, flagged 3 times | Status: needs maintenance
+Iron Spider | Web shooter pressure: 97% nominal | Nano-armor integrity: 100% | Status: combat ready
+Advanced Suit | Web shooter pressure: 99% nominal | Neural link sync: fully operational | Status: combat ready
+Iron Spider | Max web-fluid nozzle output: 120% for 8 seconds before thermal throttling | Recommended sustained output: 85%
+Stark Suit | Known issue: left web shooter loses 12% fluid pressure below -10 degrees Celsius ambient
+Advanced Suit | HUD refresh rate: 240Hz | Targeting lock time: 0.3 seconds average
+Web Shooters (cartridge unit, current) | Output: 300 psi sustained fluid pressure | Safe operating ceiling: 340 psi
+Web Shooters (cartridge unit, current) | Critical failure threshold: below 50 psi sustained fluid pressure for over 4 seconds
+Iron Spider | Last full diagnostic: passed, zero critical faults, 2 minor flags (comms latency, HUD glare in direct sunlight)

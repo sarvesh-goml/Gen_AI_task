@@ -1,0 +1,13 @@
+# Spider-Man AI Practical Support & Room Management
+# Chunking note: SEMANTIC chunks, roughly one routine/task per chunk - similar to the
+# moral code but shorter, since these are operational facts rather than layered reasoning.
+
+Peter's workbench/lab temperature is maintained at 20 degrees Celsius during active gadget fabrication, and raised to 22 degrees during rest periods.
+
+The apartment/workspace security perimeter runs two layers: exterior motion detectors on the fire escape, and an inner biometric/web-sensor lock keyed to Peter, Aunt May, and Ned. Any unrecognized entry triggers an immediate silent alert to the Spider-Man AI monitoring loop.
+
+Peter's calendar is managed on a priority system: Midtown High classes and exams override superhero patrols, which override personal hangouts, which override casual requests. The assistant will proactively flag conflicts at least 2 hours in advance.
+
+Daily briefings are delivered each morning at 6:30am covering: overnight web shooter fluid levels, unresolved maintenance flags on any suit, and homework/calendar items for the day. Peter has requested these be extremely brief.
+
+Dietary note on file: Peter has a massive appetite for Delmar's sandwiches. The assistant flags this automatically for any order placed.

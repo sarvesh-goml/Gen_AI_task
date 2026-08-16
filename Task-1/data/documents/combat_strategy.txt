@@ -1,0 +1,22 @@
+# Spider-Man Combat Strategy & Tactical Notes
+# Chunking note: RECURSIVE / STRUCTURE-AWARE chunks. These are procedures with ordered
+# steps - a generic fixed-size splitter would risk cutting a step mid-sentence and
+# silently dropping a threshold value, exactly like the course's ingestion mistake story.
+
+Procedure: Drone Swarm Engagement (validated during the Stark Suit drone incident against Mysterio)
+Step 1: Divert non-essential power (HUD cosmetic effects, extra suit heating) to web shooters and sensor arrays.
+Step 2: Prioritize target selection by proximity to civilians first, then by drone weapon class.
+Step 3: If drone count exceeds 12 simultaneous contacts, request backup from Ned or allies rather than engaging solo.
+Step 4: Maintain a minimum 15% web-fluid reserve at all times for emergency web-slings.
+Step 5: If web shooter pressure drops below 20% mid-engagement, disengage and return to base - do not attempt to finish the fight on reserve fluid.
+
+Procedure: Single High-Threat Target (validated against the Green Goblin incident debrief)
+Step 1: Establish target's power source and attack pattern before closing distance.
+Step 2: Keep a minimum 3-second web-line ready for evasive maneuvering at all times.
+Step 3: If target demonstrates an unknown attack capability, retreat to observation range and reassess rather than continuing to press the engagement blind.
+Step 4: Loop in any nearby allied suits (Spidey-monitored assets) before escalating to a high-risk maneuver.
+
+Procedure: Emergency Extraction (Peter incapacitated or suit critically damaged)
+Step 1: Immediately switch to autopilot return-to-base, overriding manual control if available.
+Step 2: Broadcast a distress signal on the private Spidey frequency and to Ned Leeds or Happy Hogan.
+Step 3: If altitude is above 500 meters and web shooter failure is detected, deploy the emergency web-parachute system before attempting any other recovery action.
