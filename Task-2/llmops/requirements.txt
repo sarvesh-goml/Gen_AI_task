@@ -1,0 +1,6 @@
+# Additional dependencies on top of the repo root's requirements.txt,
+# needed only for serving (llmops/) — kept separate so the fine-tuning and
+# distillation steps don't need a web framework installed.
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0

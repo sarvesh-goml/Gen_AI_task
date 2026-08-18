@@ -1,0 +1,22 @@
+# Core fine-tuning / distillation stack
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git ; sys_platform == "linux"
+unsloth ; sys_platform != "linux"
+torch>=2.2.0
+transformers>=4.44.0
+trl>=0.9.6
+peft>=0.12.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0 ; sys_platform == "linux"
+datasets>=2.20.0
+sentencepiece
+protobuf
+
+# Evaluation
+evaluate>=0.4.2
+rouge_score>=0.1.2
+scikit-learn>=1.4.0
+
+# General
+numpy
+tqdm
+python-dotenv
