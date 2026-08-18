@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you help me find a family-friendly resort in Hawaii?",
+    "base_answer": "I'd be happy to help you find a family-friendly resort in Hawaii. There are several options that cater to families with children. One popular choice is the Montage Kapalua Bay in Maui, which offers luxurious accommodations, a private beach, and a variety of activities like snorkeling, kayaking, and a kids' club. Another option is the Grand Hyatt Koa Kea in Wailea, which features a water park, a kids' program, and spacious rooms. Both resorts are highly rated and suitable for families with children of all ages.\n\nI can also suggest the Four Seasons",
+    "fine_tuned_answer": "We can look into Oahu's Waikiki Beach or Maui's Ka'anapali Resort for their kids' clubs, water parks, and beach activities. Keep in mind that they might require a resort tax and possibly a second night for the kids to stay.",
+    "reference": "We have several wonderful recommendations in Hawaii, such as Maui or Oahu, featuring excellent kids' clubs, waterslides, and spacious family suites. Let us know which island you prefer, and we'll send over options that fit your budget.",
+    "base_rouge_l": 0.12,
+    "fine_tuned_rouge_l": 0.148
+  },
+  {
+    "prompt": "What should I do if I lose my passport while abroad?",
+    "base_answer": "If you lose your passport while abroad, panic doesn't - act quickly. \n\nFirst, contact your embassy or consulate as soon as possible to report the loss. They'll guide you through the process of issuing a replacement passport. \n\nCheck the validity of your passport to ensure it's still valid for the duration of your trip. You may need to apply for an emergency travel document, such as a limited-validity passport or a one-year passport.\n\nIf you're in a country with emergency services, you can use a nearby hospital or a local police station to obtain a temporary document. \n\nKeep a digital",
+    "fine_tuned_answer": "If your passport is lost or stolen while abroad, you can contact your embassy in the country immediately for assistance and a replacement. They will help you obtain a temporary travel document and arrange for your passport to be sent to you.",
+    "reference": "If you lose your passport, contact the nearest embassy or consulate of your home country immediately to apply for an emergency travel document. It's also helpful to keep digital copies of your passport on your phone or email to speed up the replacement process.",
+    "base_rouge_l": 0.28,
+    "fine_tuned_rouge_l": 0.299
+  },
+  {
+    "prompt": "Do you offer eco-friendly or sustainable travel options?",
+    "base_answer": "We're delighted to offer eco-friendly and sustainable travel options. At Wanderlust Travels, we prioritize environmentally responsible tourism. We partner with environmentally certified tour operators, such as the International Ecotourism Society, to ensure that our trips not only support local communities but also minimize our carbon footprint. Our eco-friendly travel options include guided tours, transportation, and accommodations that cater to sustainable practices. Please let me know if you're interested in learning more about these options or if you'd like me to recommend a specific itinerary.",
+    "fine_tuned_answer": "Yes, we offer a wide selection of environmentally friendly tour operators and transportation providers. These options include electric or hybrid vehicles, carbon offsetting, and sustainable accommodations. We also recommend carbon offsetting through projects like REWE Travel's Carbon Offset Program.",
+    "reference": "Yes, we partner with certified green hotels and local eco-tour operators who prioritize conservation and community support. Let us know if you want to focus on sustainable travel, and we'll tailor your itinerary to minimize your carbon footprint.",
+    "base_rouge_l": 0.217,
+    "fine_tuned_rouge_l": 0.2
+  },
+  {
+    "prompt": "Is travel insurance really necessary?",
+    "base_answer": "I highly recommend travel insurance for your trip. While it's true that most major credit cards offer some level of travel insurance, having a dedicated policy can provide peace of mind. It can cover unexpected medical expenses, trip cancellations, and even personal effects loss. By investing in travel insurance, you'll be better protected against unexpected events and can focus on enjoying your trip. I can help you compare different policies and providers to find the best fit for your needs and budget.",
+    "fine_tuned_answer": "Travel insurance is highly recommended for most travelers, but it's not a requirement for all. We can provide you with more detailed information about the types of policies we offer, their benefits, and how to choose the right one for your needs.",
+    "reference": "While not mandatory, we highly recommend travel insurance to protect yourself against unexpected expenses like medical emergencies, trip cancellations, or lost luggage. It offers peace of mind so you can relax and fully enjoy your vacation.",
+    "base_rouge_l": 0.233,
+    "fine_tuned_rouge_l": 0.177
+  },
+  {
+    "prompt": "Can I book a tour with a local guide through you?",
+    "base_answer": "Yes, you can book a tour with a local guide through Wanderlust Travels. We offer a variety of guided tours that cater to different interests and travel styles. Our local guides are experienced, knowledgeable, and passionate about sharing their culture and communities with visitors. To book, please contact our customer service team, and we'll be happy to assist you with your local guide selection. We also offer customized tour planning to ensure that your tour meets your specific requirements.",
+    "fine_tuned_answer": "Yes, we can arrange local guides for our select destinations, including walking tours, cooking classes, and more. They are knowledgeable about the local culture, history, and the specific area you're visiting.",
+    "reference": "Absolutely! We work with experienced local guides in hundreds of destinations to offer private or small-group tours that bring the local history, culture, and food to life. Let us know your interests so we can match you with the perfect experience.",
+    "base_rouge_l": 0.213,
+    "fine_tuned_rouge_l": 0.27
+  }
+]

@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 .env
-outputs/
 *.pt
 *.bin
 *.safetensors
@@ -10,3 +9,5 @@ checkpoints/
 wandb/
 .DS_Store
 *.log
+
+

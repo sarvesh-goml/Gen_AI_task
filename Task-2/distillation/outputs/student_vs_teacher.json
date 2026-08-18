@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "teacher_total_params": 760547328,
+    "student_total_params": 750979072,
+    "param_reduction_pct": 1.3,
+    "avg_teacher_rouge_l": 0.24,
+    "avg_student_rouge_l": 0.251,
+    "quality_gap": -0.011,
+    "avg_teacher_latency_s": 1.669,
+    "avg_student_latency_s": 1.417,
+    "speedup_x": 1.18
+  },
+  "examples": [
+    {
+      "prompt": "Can you help me find a family-friendly resort in Hawaii?",
+      "teacher_answer": "We have many wonderful family-friendly resorts on the Big Island, Maui, and Kauai. Our top recommendation is the Mauna Lani Beach Hotel in Hawaii Kai, which offers private beach suites and amenities like a kids' club and water park.",
+      "teacher_rouge_l": 0.231,
+      "teacher_latency_s": 3.497,
+      "student_answer": "We have some fantastic family-friendly resorts on Oahu, Maui, and Kauai that cater to young travelers. We can also help you plan a beach day at Kaanapali or a whale-watching tour for your kids.",
+      "student_rouge_l": 0.162,
+      "student_latency_s": 1.66
+    },
+    {
+      "prompt": "What should I do if I lose my passport while abroad?",
+      "teacher_answer": "You can report the lost passport to the embassy in your home country immediately. The embassy will mail you a replacement passport, usually within a few days.",
+      "teacher_rouge_l": 0.278,
+      "teacher_latency_s": 1.031,
+      "student_answer": "If you lose your passport, you can apply for a replacement one at the embassy or consulate of your country of residence. You'll need your proof of citizenship, birth certificate, and proof of travel plans to the destination country.",
+      "student_rouge_l": 0.376,
+      "student_latency_s": 1.539
+    },
+    {
+      "prompt": "Do you offer eco-friendly or sustainable travel options?",
+      "teacher_answer": "Yes, we offer carbon offsetting, hotel loyalty programs, and environmentally friendly travel options such as carbon-neutral flights, electric vehicles, and carbon-neutral walking tours.",
+      "teacher_rouge_l": 0.215,
+      "teacher_latency_s": 1.503,
+      "student_answer": "Yes, we offer many eco-friendly and sustainable tour options, such as carbon offsetting, organic accommodations, and environmentally responsible transportation. We also have a dedicated sustainable travel concierge service to help you find the most environmentally friendly accommodations and activities.",
+      "student_rouge_l": 0.2,
+      "student_latency_s": 1.457
+    },
+    {
+      "prompt": "Is travel insurance really necessary?",
+      "teacher_answer": "Yes, travel insurance is highly recommended to cover unexpected medical expenses, trip cancellations, and delays. Many countries require it for entry, so it's always a good idea to purchase it before arriving.",
+      "teacher_rouge_l": 0.261,
+      "teacher_latency_s": 1.331,
+      "student_answer": "We highly recommend it! While you may think it's too expensive, it's a peace of mind guarantee for unexpected trip cancellations, medical emergencies, or trip interruptions.",
+      "student_rouge_l": 0.25,
+      "student_latency_s": 1.113
+    },
+    {
+      "prompt": "Can I book a tour with a local guide through you?",
+      "teacher_answer": "Yes, we offer guided tours in multiple languages, from city sightseeing to outdoor adventures, and can arrange private lessons for visitors with disabilities.",
+      "teacher_rouge_l": 0.215,
+      "teacher_latency_s": 0.983,
+      "student_answer": "Yes, we have a network of local guides and tour operators in many countries, so we can assist you with arranging and booking your trip. We'll match you with the best guide and activities for your travel dates and budget.",
+      "student_rouge_l": 0.265,
+      "student_latency_s": 1.314
+    }
+  ]
+}
